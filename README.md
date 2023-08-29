@@ -11,6 +11,10 @@ This is a Flutter project named "get_cli" that demonstrates various authenticati
 - **Speech to Text:** Convert spoken language into text, enhancing user input options.
 - **Signature Widget & Save Image:** Enable users to draw and save their signatures as images.
 
+
+Remember to customize placeholders like `your.email@example.com` and provide a valid `LICENSE` file if you choose a license other than MIT. Feel free to add any additional sections, images, or formatting that align with your project's branding and style.
+
+
 ## Getting Started
 
 Follow these steps to get the project up and running on your local machine:
