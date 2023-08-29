@@ -30,9 +30,23 @@ class HomeView extends GetView<HomeController> {
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-                Text(myControllerController.jay.value),
-                Obx(() =>Text(imagepickerController.imagepath.value==null?"":imagepickerController.imagepath.value),),
-                
+                Text(
+                  myControllerController.jay.value,
+                  style: TextStyle(
+                    fontSize: 18,
+                  ),
+                ),
+                SizedBox(
+                  height: 16,
+                ),
+                // Obx(
+                //   () => Text(imagepickerController.imagepath.value == null
+                //       ? ""
+                //       : imagepickerController.imagepath.value),
+                // ),
+                // SizedBox(
+                //   height: 16,
+                // ),
                 example(
                     title: "Image Picker",
                     icontext: "I",

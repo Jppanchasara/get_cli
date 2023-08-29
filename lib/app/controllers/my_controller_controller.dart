@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 class MyControllerController extends GetxController {
   //TODO: Implement MyControllerController
 
-  RxString jay = "jayesh Panchasra".obs;
+  RxString jay = "jayesh Panchasara".obs;
   final count = 0.obs;
   @override
   void onInit() {
