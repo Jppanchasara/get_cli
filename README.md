@@ -1,6 +1,6 @@
 # get_cli Flutter Project
 
-This is a Flutter project named "get_cli" that demonstrates various authentication methods, image handling, speech-to-text functionality, and a signature widget. The project aims to provide a starting point for developers interested in building Flutter apps with these features.
+
 
 ## Features
 
